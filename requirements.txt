@@ -5,3 +5,6 @@ pytest==8.4.1
 httpx==0.28.1
 psycopg[binary]>=3.2,<4
 cryptography>=44,<47
+
+# eMudhra/emSign trust-store security update.
+certifi==2026.10.19
