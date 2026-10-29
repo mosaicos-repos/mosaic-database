@@ -9,6 +9,7 @@ export const SERVICES = [
   { name: "Sandbox", blurb: "Firecracker microVMs for agents", url: "https://sandbox.mosaicos.com/" },
   { name: "Object Storage", blurb: "S3-compatible, zero egress", url: "https://storage.mosaicos.com/" },
   { name: "Memory", blurb: "Durable recall for agents", url: "https://memory.mosaicos.com/" },
+  { name: "Database (ChromaDB)", blurb: "Managed vector search", url: "https://chroma.mosaicos.com/" },
   { name: "ClickHouse®", blurb: "Managed columnar analytics", url: "https://clickhouse.mosaicos.com/" },
   { name: "PostgreSQL", blurb: "Branchable Postgres for agents", url: "https://database.mosaicos.com/" },
   { name: "Apache Kafka®", blurb: "Queues and streams over HTTP", url: "https://kafka.mosaicos.com/" },
